@@ -10,7 +10,7 @@ on:
 
 
 env:
-  LOAD_TEST_RESOURCE: "ajnlhackathoneastus-rg"
+  LOAD_TEST_RESOURCE: "AshTestHackathon"
   LOAD_TEST_RESOURCE_GROUP: "NL-Ash-Hackathon-Oneeastus-rg"
   ENDPOINT_URL: "ajnlhackathon.azurewebsites.net"
 
