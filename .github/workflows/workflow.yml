@@ -8,6 +8,7 @@ on:
       branches:
         - main
 
+
 env:
   LOAD_TEST_RESOURCE: "ajnlhackathoneastus-rg"
   LOAD_TEST_RESOURCE_GROUP: "NL-Ash-Hackathon-Oneeastus-rg"
